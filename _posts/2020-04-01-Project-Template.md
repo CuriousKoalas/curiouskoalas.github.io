@@ -9,21 +9,20 @@ Table of Contents:
 
 The project summary goes here. It describes the basics of what we intend to make, and what skills we will require/learn along the way. It should also show a photo of the finished project and any warnings/notes to be aware of ahead of starting.
 
-![](/images/CK00-FloatingBookEnd.jpg "Floating Book-End")
-*Simple "floating" book-end using any toy/statue/object as the subject.*
+![](/images/CK00-FloatingBookEnd.jpg "A Simple Floating Book-End Project")
 
 ---
 
 ## Components
 
-- Component 1 ([Link to example](http://example.com)
-- Component 2 ([Link to example](http://example.com)
+- Component 1 ([Link to example](http://example.com))
+- Component 2 ([Link to example](http://example.com))
 - Etc
 
 ## Tools
 
-- Tool 1 ([Link to example](http://example.com)
-- Tool 2 ([Link to example](http://example.com)
+- Tool 1 ([Link to example](http://example.com))
+- Tool 2 ([Link to example](http://example.com))
 - Etc
 
 ## Instructions
